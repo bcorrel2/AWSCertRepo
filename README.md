@@ -6,6 +6,6 @@ This repository contains various AWS Certificates I've recieved throughout my ca
 
 ## AWS Certificates 
 
-### Certified AI Practitioner
+### AI Practitioner
 - Fundamentals Of Machine Learning And Artificial Intelligence
 - Exploring Artificial Intelligence Use Cases and Applications
