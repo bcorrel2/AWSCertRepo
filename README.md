@@ -14,3 +14,4 @@ This repository contains various AWS Certificates I've recieved throughout my ca
 - Developing Generative Artificial Intelligence Solutions
 - Essentials of Prompt Engineering
 - Optimizing Foundation Models
+- Security, Compliance and Governance for AI Solutions
