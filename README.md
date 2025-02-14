@@ -3,6 +3,7 @@ This repository contains various AWS Certificates I've recieved throughout my ca
 
 ## AWS Certifications
 - Solutions Architect - Associate (ACTIVE)
+- AWS Certified AI Practitioner (ACTIVE)
 
 ## AWS Certificates 
 
