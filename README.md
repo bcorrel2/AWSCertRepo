@@ -2,7 +2,7 @@
 This repository contains various AWS Certificates I've recieved throughout my career. 
 
 ## AWS Certifications
-- Solutions Architect - Associate (ACTIVE)
+- Solutions Architect - Associate (INACTIVE)
 - AI Practitioner (ACTIVE)
 
 ## AWS Certificates 
